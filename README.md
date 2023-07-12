@@ -26,7 +26,7 @@ X-Dom
 Standard-User
 ```
 
-Or you can recursivly lookup a username
+Or you can recursively lookup a username
 ```bash
 $ enum4linux_parse --file enum4linux_groups --username 'Standard-User'
 This script will recursively lookup groups or users in an active directory environment from the enum4linux groups output.
